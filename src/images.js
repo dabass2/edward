@@ -14,7 +14,17 @@ const image_links = [
   "edward_sit.jpg",
   "edward_sleep.jpg",
   "edward_sprawl.jpg",
-  "regal_edward.jpg"
+  "edward_regal.jpg",
+  "edward_grumpy.jpg",
+  "edward_chill.jpg",
+  "edward_stoic.jpg",
+  "edward_pensive.jpg",
+  "edward_flog.jpg",
+  "edward_despair",
+  "edward_present.jpg",
+  "edward_slim.jpg",
+  "edward_slept.jpg",
+  "edward_lounge.jpg"
 ]
 
 export default image_links
